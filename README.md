@@ -1,2 +1,2 @@
 # Word-Counter
-This a word counter with Typescript, Node.js and inquirer.
+This a word-counter project with Typescript, Node.js and inquirer.
